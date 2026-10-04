@@ -1,0 +1,31 @@
+Product_ID,SKU,Product_Name,Category,Unit_Price,Unit_Cost
+P001,ELE-01,Electronics Product 1,Electronics,21857.98,17486.38
+P002,ELE-02,Electronics Product 2,Electronics,35083.78,23506.13
+P003,ELE-03,Electronics Product 3,Electronics,13772.69,7024.07
+P004,ELE-04,Electronics Product 4,Electronics,10149.09,7814.8
+P005,ELE-05,Electronics Product 5,Electronics,30241.26,21471.29
+P006,ELE-06,Electronics Product 6,Electronics,8761.63,7096.92
+P007,OFF-07,Office Supplies Product 7,Office Supplies,4212.48,2232.61
+P008,OFF-08,Office Supplies Product 8,Office Supplies,1154.58,600.38
+P009,OFF-09,Office Supplies Product 9,Office Supplies,1729.94,1107.16
+P010,OFF-10,Office Supplies Product 10,Office Supplies,2330.14,1304.88
+P011,OFF-11,Office Supplies Product 11,Office Supplies,3175.71,1587.86
+P012,OFF-12,Office Supplies Product 12,Office Supplies,1673.08,987.12
+P013,FUR-13,Furniture Product 13,Furniture,15041.92,11131.02
+P014,FUR-14,Furniture Product 14,Furniture,7991.03,5114.26
+P015,FUR-15,Furniture Product 15,Furniture,18791.4,8831.96
+P016,FUR-16,Furniture Product 16,Furniture,19207.48,9795.81
+P017,FUR-17,Furniture Product 17,Furniture,4288.92,3431.14
+P018,FUR-18,Furniture Product 18,Furniture,29054.88,21791.16
+P019,SOF-19,Software Product 19,Software,9701.5,4753.73
+P020,SOF-20,Software Product 20,Software,18053.13,11012.41
+P021,SOF-21,Software Product 21,Software,5684.84,3581.45
+P022,SOF-22,Software Product 22,Software,3756.55,2967.67
+P023,SOF-23,Software Product 23,Software,8693.16,6085.21
+P024,SOF-24,Software Product 24,Software,9857.64,6308.89
+P025,SER-25,Services Product 25,Services,29601.96,15393.02
+P026,SER-26,Services Product 26,Services,48631.31,35987.17
+P027,SER-27,Services Product 27,Services,47277.45,36876.41
+P028,SER-28,Services Product 28,Services,31905.5,25205.34
+P029,SER-29,Services Product 29,Services,8982.16,4670.72
+P030,SER-30,Services Product 30,Services,7035.23,4010.08

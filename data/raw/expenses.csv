@@ -1,0 +1,961 @@
+Month,Region_ID,Region,City,Expense_Type,Actual_Expense
+2024-01-01,R01,North,Delhi,Salary,449987.91
+2024-01-01,R01,North,Delhi,Marketing,163891.43
+2024-01-01,R01,North,Delhi,Rent,100345.71
+2024-01-01,R01,North,Delhi,Utilities,51391.67
+2024-01-01,R01,North,Delhi,Travel,64334.24
+2024-01-01,R01,North,Delhi,Software,79351.48
+2024-01-01,R01,North,Delhi,Logistics,114264.78
+2024-01-01,R01,North,Delhi,Professional Fees,43815.02
+2024-01-01,R02,West,Mumbai,Salary,492042.95
+2024-01-01,R02,West,Mumbai,Marketing,139038.82
+2024-01-01,R02,West,Mumbai,Rent,103662.07
+2024-01-01,R02,West,Mumbai,Utilities,51746.87
+2024-01-01,R02,West,Mumbai,Travel,47523.79
+2024-01-01,R02,West,Mumbai,Software,74925.38
+2024-01-01,R02,West,Mumbai,Logistics,109749.49
+2024-01-01,R02,West,Mumbai,Professional Fees,58037.12
+2024-01-01,R03,South,Bengaluru,Salary,503220.15
+2024-01-01,R03,South,Bengaluru,Marketing,172131.73
+2024-01-01,R03,South,Bengaluru,Rent,85932.89
+2024-01-01,R03,South,Bengaluru,Utilities,49410.91
+2024-01-01,R03,South,Bengaluru,Travel,49948.52
+2024-01-01,R03,South,Bengaluru,Software,72012.25
+2024-01-01,R03,South,Bengaluru,Logistics,107198.43
+2024-01-01,R03,South,Bengaluru,Professional Fees,44631.62
+2024-01-01,R04,East,Kolkata,Salary,519865.53
+2024-01-01,R04,East,Kolkata,Marketing,188313.03
+2024-01-01,R04,East,Kolkata,Rent,79123.69
+2024-01-01,R04,East,Kolkata,Utilities,45702.3
+2024-01-01,R04,East,Kolkata,Travel,52341.86
+2024-01-01,R04,East,Kolkata,Software,61639.97
+2024-01-01,R04,East,Kolkata,Logistics,118702.32
+2024-01-01,R04,East,Kolkata,Professional Fees,49071.5
+2024-01-01,R05,Central,Indore,Salary,527436.26
+2024-01-01,R05,Central,Indore,Marketing,170603.1
+2024-01-01,R05,Central,Indore,Rent,88989.78
+2024-01-01,R05,Central,Indore,Utilities,47001.68
+2024-01-01,R05,Central,Indore,Travel,54052.04
+2024-01-01,R05,Central,Indore,Software,73341.37
+2024-01-01,R05,Central,Indore,Logistics,104609.42
+2024-01-01,R05,Central,Indore,Professional Fees,43196.04
+2024-02-01,R01,North,Delhi,Salary,399441.35
+2024-02-01,R01,North,Delhi,Marketing,154388.0
+2024-02-01,R01,North,Delhi,Rent,81930.79
+2024-02-01,R01,North,Delhi,Utilities,44065.28
+2024-02-01,R01,North,Delhi,Travel,52150.36
+2024-02-01,R01,North,Delhi,Software,73104.01
+2024-02-01,R01,North,Delhi,Logistics,103677.6
+2024-02-01,R01,North,Delhi,Professional Fees,51303.8
+2024-02-01,R02,West,Mumbai,Salary,408483.5
+2024-02-01,R02,West,Mumbai,Marketing,178743.93
+2024-02-01,R02,West,Mumbai,Rent,101708.06
+2024-02-01,R02,West,Mumbai,Utilities,38424.82
+2024-02-01,R02,West,Mumbai,Travel,47406.18
+2024-02-01,R02,West,Mumbai,Software,72957.26
+2024-02-01,R02,West,Mumbai,Logistics,118034.42
+2024-02-01,R02,West,Mumbai,Professional Fees,45981.52
+2024-02-01,R03,South,Bengaluru,Salary,430559.49
+2024-02-01,R03,South,Bengaluru,Marketing,147759.97
+2024-02-01,R03,South,Bengaluru,Rent,105525.64
+2024-02-01,R03,South,Bengaluru,Utilities,47674.44
+2024-02-01,R03,South,Bengaluru,Travel,50623.52
+2024-02-01,R03,South,Bengaluru,Software,73209.73
+2024-02-01,R03,South,Bengaluru,Logistics,118003.52
+2024-02-01,R03,South,Bengaluru,Professional Fees,51099.55
+2024-02-01,R04,East,Kolkata,Salary,492794.03
+2024-02-01,R04,East,Kolkata,Marketing,174130.52
+2024-02-01,R04,East,Kolkata,Rent,85387.78
+2024-02-01,R04,East,Kolkata,Utilities,43040.27
+2024-02-01,R04,East,Kolkata,Travel,52605.93
+2024-02-01,R04,East,Kolkata,Software,75334.39
+2024-02-01,R04,East,Kolkata,Logistics,109810.02
+2024-02-01,R04,East,Kolkata,Professional Fees,51914.05
+2024-02-01,R05,Central,Indore,Salary,443222.72
+2024-02-01,R05,Central,Indore,Marketing,177048.4
+2024-02-01,R05,Central,Indore,Rent,92206.09
+2024-02-01,R05,Central,Indore,Utilities,41904.82
+2024-02-01,R05,Central,Indore,Travel,55120.7
+2024-02-01,R05,Central,Indore,Software,62410.4
+2024-02-01,R05,Central,Indore,Logistics,109489.68
+2024-02-01,R05,Central,Indore,Professional Fees,51093.14
+2024-03-01,R01,North,Delhi,Salary,521396.94
+2024-03-01,R01,North,Delhi,Marketing,157999.4
+2024-03-01,R01,North,Delhi,Rent,88528.55
+2024-03-01,R01,North,Delhi,Utilities,39951.12
+2024-03-01,R01,North,Delhi,Travel,52864.0
+2024-03-01,R01,North,Delhi,Software,66601.31
+2024-03-01,R01,North,Delhi,Logistics,128842.57
+2024-03-01,R01,North,Delhi,Professional Fees,51746.35
+2024-03-01,R02,West,Mumbai,Salary,513342.22
+2024-03-01,R02,West,Mumbai,Marketing,173099.88
+2024-03-01,R02,West,Mumbai,Rent,87659.23
+2024-03-01,R02,West,Mumbai,Utilities,39709.72
+2024-03-01,R02,West,Mumbai,Travel,47818.61
+2024-03-01,R02,West,Mumbai,Software,67587.06
+2024-03-01,R02,West,Mumbai,Logistics,110445.61
+2024-03-01,R02,West,Mumbai,Professional Fees,46198.85
+2024-03-01,R03,South,Bengaluru,Salary,481584.83
+2024-03-01,R03,South,Bengaluru,Marketing,136098.78
+2024-03-01,R03,South,Bengaluru,Rent,93631.03
+2024-03-01,R03,South,Bengaluru,Utilities,47779.98
+2024-03-01,R03,South,Bengaluru,Travel,54844.37
+2024-03-01,R03,South,Bengaluru,Software,64945.47
+2024-03-01,R03,South,Bengaluru,Logistics,122282.67
+2024-03-01,R03,South,Bengaluru,Professional Fees,53783.98
+2024-03-01,R04,East,Kolkata,Salary,415647.82
+2024-03-01,R04,East,Kolkata,Marketing,156779.92
+2024-03-01,R04,East,Kolkata,Rent,100865.85
+2024-03-01,R04,East,Kolkata,Utilities,48317.44
+2024-03-01,R04,East,Kolkata,Travel,59509.44
+2024-03-01,R04,East,Kolkata,Software,61721.09
+2024-03-01,R04,East,Kolkata,Logistics,122201.05
+2024-03-01,R04,East,Kolkata,Professional Fees,49536.06
+2024-03-01,R05,Central,Indore,Salary,501985.78
+2024-03-01,R05,Central,Indore,Marketing,186590.94
+2024-03-01,R05,Central,Indore,Rent,94830.81
+2024-03-01,R05,Central,Indore,Utilities,44601.5
+2024-03-01,R05,Central,Indore,Travel,49703.7
+2024-03-01,R05,Central,Indore,Software,66775.22
+2024-03-01,R05,Central,Indore,Logistics,108003.26
+2024-03-01,R05,Central,Indore,Professional Fees,57081.85
+2024-04-01,R01,North,Delhi,Salary,452137.48
+2024-04-01,R01,North,Delhi,Marketing,187153.72
+2024-04-01,R01,North,Delhi,Rent,77585.13
+2024-04-01,R01,North,Delhi,Utilities,42858.24
+2024-04-01,R01,North,Delhi,Travel,64762.29
+2024-04-01,R01,North,Delhi,Software,65101.61
+2024-04-01,R01,North,Delhi,Logistics,98000.01
+2024-04-01,R01,North,Delhi,Professional Fees,47870.33
+2024-04-01,R02,West,Mumbai,Salary,429404.34
+2024-04-01,R02,West,Mumbai,Marketing,167100.79
+2024-04-01,R02,West,Mumbai,Rent,98625.9
+2024-04-01,R02,West,Mumbai,Utilities,46189.67
+2024-04-01,R02,West,Mumbai,Travel,47320.73
+2024-04-01,R02,West,Mumbai,Software,72297.21
+2024-04-01,R02,West,Mumbai,Logistics,112847.38
+2024-04-01,R02,West,Mumbai,Professional Fees,55522.59
+2024-04-01,R03,South,Bengaluru,Salary,448539.34
+2024-04-01,R03,South,Bengaluru,Marketing,167188.3
+2024-04-01,R03,South,Bengaluru,Rent,87707.05
+2024-04-01,R03,South,Bengaluru,Utilities,40685.25
+2024-04-01,R03,South,Bengaluru,Travel,61101.04
+2024-04-01,R03,South,Bengaluru,Software,73264.95
+2024-04-01,R03,South,Bengaluru,Logistics,106498.72
+2024-04-01,R03,South,Bengaluru,Professional Fees,57089.39
+2024-04-01,R04,East,Kolkata,Salary,508212.37
+2024-04-01,R04,East,Kolkata,Marketing,159398.77
+2024-04-01,R04,East,Kolkata,Rent,83262.37
+2024-04-01,R04,East,Kolkata,Utilities,40920.74
+2024-04-01,R04,East,Kolkata,Travel,58275.42
+2024-04-01,R04,East,Kolkata,Software,81800.06
+2024-04-01,R04,East,Kolkata,Logistics,94331.38
+2024-04-01,R04,East,Kolkata,Professional Fees,46258.22
+2024-04-01,R05,Central,Indore,Salary,443515.26
+2024-04-01,R05,Central,Indore,Marketing,180674.06
+2024-04-01,R05,Central,Indore,Rent,98830.24
+2024-04-01,R05,Central,Indore,Utilities,39676.59
+2024-04-01,R05,Central,Indore,Travel,62147.75
+2024-04-01,R05,Central,Indore,Software,68669.7
+2024-04-01,R05,Central,Indore,Logistics,103153.39
+2024-04-01,R05,Central,Indore,Professional Fees,54409.36
+2024-05-01,R01,North,Delhi,Salary,414809.35
+2024-05-01,R01,North,Delhi,Marketing,159817.04
+2024-05-01,R01,North,Delhi,Rent,80192.81
+2024-05-01,R01,North,Delhi,Utilities,52899.93
+2024-05-01,R01,North,Delhi,Travel,59730.6
+2024-05-01,R01,North,Delhi,Software,73228.23
+2024-05-01,R01,North,Delhi,Logistics,108431.54
+2024-05-01,R01,North,Delhi,Professional Fees,47438.12
+2024-05-01,R02,West,Mumbai,Salary,442587.77
+2024-05-01,R02,West,Mumbai,Marketing,143904.9
+2024-05-01,R02,West,Mumbai,Rent,85876.56
+2024-05-01,R02,West,Mumbai,Utilities,48544.71
+2024-05-01,R02,West,Mumbai,Travel,64363.66
+2024-05-01,R02,West,Mumbai,Software,67897.74
+2024-05-01,R02,West,Mumbai,Logistics,112288.82
+2024-05-01,R02,West,Mumbai,Professional Fees,46958.83
+2024-05-01,R03,South,Bengaluru,Salary,498092.12
+2024-05-01,R03,South,Bengaluru,Marketing,158334.56
+2024-05-01,R03,South,Bengaluru,Rent,86523.44
+2024-05-01,R03,South,Bengaluru,Utilities,51582.38
+2024-05-01,R03,South,Bengaluru,Travel,51777.32
+2024-05-01,R03,South,Bengaluru,Software,69416.27
+2024-05-01,R03,South,Bengaluru,Logistics,94505.86
+2024-05-01,R03,South,Bengaluru,Professional Fees,48419.1
+2024-05-01,R04,East,Kolkata,Salary,517798.89
+2024-05-01,R04,East,Kolkata,Marketing,159794.53
+2024-05-01,R04,East,Kolkata,Rent,102835.73
+2024-05-01,R04,East,Kolkata,Utilities,50060.99
+2024-05-01,R04,East,Kolkata,Travel,53464.7
+2024-05-01,R04,East,Kolkata,Software,80755.34
+2024-05-01,R04,East,Kolkata,Logistics,100274.85
+2024-05-01,R04,East,Kolkata,Professional Fees,49256.7
+2024-05-01,R05,Central,Indore,Salary,466700.57
+2024-05-01,R05,Central,Indore,Marketing,172370.92
+2024-05-01,R05,Central,Indore,Rent,99989.55
+2024-05-01,R05,Central,Indore,Utilities,42702.72
+2024-05-01,R05,Central,Indore,Travel,55622.88
+2024-05-01,R05,Central,Indore,Software,78289.39
+2024-05-01,R05,Central,Indore,Logistics,106705.91
+2024-05-01,R05,Central,Indore,Professional Fees,57784.09
+2024-06-01,R01,North,Delhi,Salary,429620.94
+2024-06-01,R01,North,Delhi,Marketing,151036.45
+2024-06-01,R01,North,Delhi,Rent,101353.03
+2024-06-01,R01,North,Delhi,Utilities,51706.75
+2024-06-01,R01,North,Delhi,Travel,51793.86
+2024-06-01,R01,North,Delhi,Software,79234.33
+2024-06-01,R01,North,Delhi,Logistics,111911.66
+2024-06-01,R01,North,Delhi,Professional Fees,47268.84
+2024-06-01,R02,West,Mumbai,Salary,464299.57
+2024-06-01,R02,West,Mumbai,Marketing,178110.87
+2024-06-01,R02,West,Mumbai,Rent,82514.73
+2024-06-01,R02,West,Mumbai,Utilities,39961.43
+2024-06-01,R02,West,Mumbai,Travel,57867.86
+2024-06-01,R02,West,Mumbai,Software,61898.32
+2024-06-01,R02,West,Mumbai,Logistics,117014.45
+2024-06-01,R02,West,Mumbai,Professional Fees,56977.83
+2024-06-01,R03,South,Bengaluru,Salary,426750.89
+2024-06-01,R03,South,Bengaluru,Marketing,177494.93
+2024-06-01,R03,South,Bengaluru,Rent,81425.72
+2024-06-01,R03,South,Bengaluru,Utilities,50390.81
+2024-06-01,R03,South,Bengaluru,Travel,52191.13
+2024-06-01,R03,South,Bengaluru,Software,60244.0
+2024-06-01,R03,South,Bengaluru,Logistics,125183.37
+2024-06-01,R03,South,Bengaluru,Professional Fees,46315.81
+2024-06-01,R04,East,Kolkata,Salary,502394.07
+2024-06-01,R04,East,Kolkata,Marketing,175386.61
+2024-06-01,R04,East,Kolkata,Rent,104144.22
+2024-06-01,R04,East,Kolkata,Utilities,38839.64
+2024-06-01,R04,East,Kolkata,Travel,48645.81
+2024-06-01,R04,East,Kolkata,Software,69712.65
+2024-06-01,R04,East,Kolkata,Logistics,117358.37
+2024-06-01,R04,East,Kolkata,Professional Fees,55207.03
+2024-06-01,R05,Central,Indore,Salary,498173.86
+2024-06-01,R05,Central,Indore,Marketing,173561.33
+2024-06-01,R05,Central,Indore,Rent,91743.1
+2024-06-01,R05,Central,Indore,Utilities,42431.08
+2024-06-01,R05,Central,Indore,Travel,63185.13
+2024-06-01,R05,Central,Indore,Software,64338.13
+2024-06-01,R05,Central,Indore,Logistics,95860.38
+2024-06-01,R05,Central,Indore,Professional Fees,53168.18
+2024-07-01,R01,North,Delhi,Salary,471673.78
+2024-07-01,R01,North,Delhi,Marketing,177420.56
+2024-07-01,R01,North,Delhi,Rent,105196.14
+2024-07-01,R01,North,Delhi,Utilities,47692.09
+2024-07-01,R01,North,Delhi,Travel,62888.79
+2024-07-01,R01,North,Delhi,Software,81734.34
+2024-07-01,R01,North,Delhi,Logistics,122294.15
+2024-07-01,R01,North,Delhi,Professional Fees,45957.35
+2024-07-01,R02,West,Mumbai,Salary,495859.46
+2024-07-01,R02,West,Mumbai,Marketing,174461.0
+2024-07-01,R02,West,Mumbai,Rent,100476.32
+2024-07-01,R02,West,Mumbai,Utilities,47480.96
+2024-07-01,R02,West,Mumbai,Travel,57014.39
+2024-07-01,R02,West,Mumbai,Software,62080.77
+2024-07-01,R02,West,Mumbai,Logistics,97429.93
+2024-07-01,R02,West,Mumbai,Professional Fees,58596.24
+2024-07-01,R03,South,Bengaluru,Salary,411665.37
+2024-07-01,R03,South,Bengaluru,Marketing,140295.52
+2024-07-01,R03,South,Bengaluru,Rent,90265.2
+2024-07-01,R03,South,Bengaluru,Utilities,51753.44
+2024-07-01,R03,South,Bengaluru,Travel,56738.0
+2024-07-01,R03,South,Bengaluru,Software,70252.21
+2024-07-01,R03,South,Bengaluru,Logistics,124117.11
+2024-07-01,R03,South,Bengaluru,Professional Fees,56974.6
+2024-07-01,R04,East,Kolkata,Salary,465006.78
+2024-07-01,R04,East,Kolkata,Marketing,181216.89
+2024-07-01,R04,East,Kolkata,Rent,85075.16
+2024-07-01,R04,East,Kolkata,Utilities,39797.7
+2024-07-01,R04,East,Kolkata,Travel,56186.77
+2024-07-01,R04,East,Kolkata,Software,70144.53
+2024-07-01,R04,East,Kolkata,Logistics,112185.98
+2024-07-01,R04,East,Kolkata,Professional Fees,43289.49
+2024-07-01,R05,Central,Indore,Salary,392788.37
+2024-07-01,R05,Central,Indore,Marketing,141353.61
+2024-07-01,R05,Central,Indore,Rent,89782.18
+2024-07-01,R05,Central,Indore,Utilities,49972.56
+2024-07-01,R05,Central,Indore,Travel,49169.63
+2024-07-01,R05,Central,Indore,Software,68789.77
+2024-07-01,R05,Central,Indore,Logistics,104711.82
+2024-07-01,R05,Central,Indore,Professional Fees,48574.79
+2024-08-01,R01,North,Delhi,Salary,383953.14
+2024-08-01,R01,North,Delhi,Marketing,165518.79
+2024-08-01,R01,North,Delhi,Rent,94270.59
+2024-08-01,R01,North,Delhi,Utilities,41551.08
+2024-08-01,R01,North,Delhi,Travel,50165.01
+2024-08-01,R01,North,Delhi,Software,66822.76
+2024-08-01,R01,North,Delhi,Logistics,127001.51
+2024-08-01,R01,North,Delhi,Professional Fees,43299.62
+2024-08-01,R02,West,Mumbai,Salary,422691.81
+2024-08-01,R02,West,Mumbai,Marketing,142133.55
+2024-08-01,R02,West,Mumbai,Rent,101882.15
+2024-08-01,R02,West,Mumbai,Utilities,50500.84
+2024-08-01,R02,West,Mumbai,Travel,50245.05
+2024-08-01,R02,West,Mumbai,Software,59586.76
+2024-08-01,R02,West,Mumbai,Logistics,115989.76
+2024-08-01,R02,West,Mumbai,Professional Fees,44618.71
+2024-08-01,R03,South,Bengaluru,Salary,482544.8
+2024-08-01,R03,South,Bengaluru,Marketing,138607.26
+2024-08-01,R03,South,Bengaluru,Rent,82289.27
+2024-08-01,R03,South,Bengaluru,Utilities,47807.19
+2024-08-01,R03,South,Bengaluru,Travel,59074.99
+2024-08-01,R03,South,Bengaluru,Software,62009.59
+2024-08-01,R03,South,Bengaluru,Logistics,107367.9
+2024-08-01,R03,South,Bengaluru,Professional Fees,46629.01
+2024-08-01,R04,East,Kolkata,Salary,476920.29
+2024-08-01,R04,East,Kolkata,Marketing,139480.15
+2024-08-01,R04,East,Kolkata,Rent,97475.99
+2024-08-01,R04,East,Kolkata,Utilities,43549.58
+2024-08-01,R04,East,Kolkata,Travel,50617.18
+2024-08-01,R04,East,Kolkata,Software,74053.37
+2024-08-01,R04,East,Kolkata,Logistics,114769.29
+2024-08-01,R04,East,Kolkata,Professional Fees,44120.9
+2024-08-01,R05,Central,Indore,Salary,488766.44
+2024-08-01,R05,Central,Indore,Marketing,181978.96
+2024-08-01,R05,Central,Indore,Rent,83962.46
+2024-08-01,R05,Central,Indore,Utilities,40783.59
+2024-08-01,R05,Central,Indore,Travel,49712.38
+2024-08-01,R05,Central,Indore,Software,68790.95
+2024-08-01,R05,Central,Indore,Logistics,100746.79
+2024-08-01,R05,Central,Indore,Professional Fees,49520.89
+2024-09-01,R01,North,Delhi,Salary,499235.87
+2024-09-01,R01,North,Delhi,Marketing,180763.82
+2024-09-01,R01,North,Delhi,Rent,88878.51
+2024-09-01,R01,North,Delhi,Utilities,44662.43
+2024-09-01,R01,North,Delhi,Travel,59346.71
+2024-09-01,R01,North,Delhi,Software,60866.09
+2024-09-01,R01,North,Delhi,Logistics,105256.38
+2024-09-01,R01,North,Delhi,Professional Fees,55103.76
+2024-09-01,R02,West,Mumbai,Salary,468518.42
+2024-09-01,R02,West,Mumbai,Marketing,154611.58
+2024-09-01,R02,West,Mumbai,Rent,98565.11
+2024-09-01,R02,West,Mumbai,Utilities,46612.59
+2024-09-01,R02,West,Mumbai,Travel,59711.21
+2024-09-01,R02,West,Mumbai,Software,69199.91
+2024-09-01,R02,West,Mumbai,Logistics,122539.5
+2024-09-01,R02,West,Mumbai,Professional Fees,54122.21
+2024-09-01,R03,South,Bengaluru,Salary,449752.08
+2024-09-01,R03,South,Bengaluru,Marketing,174278.57
+2024-09-01,R03,South,Bengaluru,Rent,98657.99
+2024-09-01,R03,South,Bengaluru,Utilities,42434.42
+2024-09-01,R03,South,Bengaluru,Travel,53081.57
+2024-09-01,R03,South,Bengaluru,Software,60495.41
+2024-09-01,R03,South,Bengaluru,Logistics,102258.74
+2024-09-01,R03,South,Bengaluru,Professional Fees,57790.17
+2024-09-01,R04,East,Kolkata,Salary,501584.21
+2024-09-01,R04,East,Kolkata,Marketing,137508.54
+2024-09-01,R04,East,Kolkata,Rent,83046.54
+2024-09-01,R04,East,Kolkata,Utilities,45881.6
+2024-09-01,R04,East,Kolkata,Travel,54634.18
+2024-09-01,R04,East,Kolkata,Software,77769.82
+2024-09-01,R04,East,Kolkata,Logistics,111205.81
+2024-09-01,R04,East,Kolkata,Professional Fees,49814.46
+2024-09-01,R05,Central,Indore,Salary,415480.34
+2024-09-01,R05,Central,Indore,Marketing,151936.88
+2024-09-01,R05,Central,Indore,Rent,82974.04
+2024-09-01,R05,Central,Indore,Utilities,52564.82
+2024-09-01,R05,Central,Indore,Travel,60937.57
+2024-09-01,R05,Central,Indore,Software,64764.8
+2024-09-01,R05,Central,Indore,Logistics,102969.58
+2024-09-01,R05,Central,Indore,Professional Fees,52258.18
+2024-10-01,R01,North,Delhi,Salary,438277.1
+2024-10-01,R01,North,Delhi,Marketing,150467.21
+2024-10-01,R01,North,Delhi,Rent,80188.52
+2024-10-01,R01,North,Delhi,Utilities,38617.56
+2024-10-01,R01,North,Delhi,Travel,47746.76
+2024-10-01,R01,North,Delhi,Software,78585.53
+2024-10-01,R01,North,Delhi,Logistics,96603.42
+2024-10-01,R01,North,Delhi,Professional Fees,42714.82
+2024-10-01,R02,West,Mumbai,Salary,457951.87
+2024-10-01,R02,West,Mumbai,Marketing,159258.71
+2024-10-01,R02,West,Mumbai,Rent,92593.72
+2024-10-01,R02,West,Mumbai,Utilities,50257.14
+2024-10-01,R02,West,Mumbai,Travel,48953.86
+2024-10-01,R02,West,Mumbai,Software,77291.35
+2024-10-01,R02,West,Mumbai,Logistics,100715.07
+2024-10-01,R02,West,Mumbai,Professional Fees,45991.91
+2024-10-01,R03,South,Bengaluru,Salary,411642.45
+2024-10-01,R03,South,Bengaluru,Marketing,156434.44
+2024-10-01,R03,South,Bengaluru,Rent,93099.64
+2024-10-01,R03,South,Bengaluru,Utilities,41470.03
+2024-10-01,R03,South,Bengaluru,Travel,56841.96
+2024-10-01,R03,South,Bengaluru,Software,62805.85
+2024-10-01,R03,South,Bengaluru,Logistics,97411.92
+2024-10-01,R03,South,Bengaluru,Professional Fees,57653.97
+2024-10-01,R04,East,Kolkata,Salary,393051.66
+2024-10-01,R04,East,Kolkata,Marketing,182617.98
+2024-10-01,R04,East,Kolkata,Rent,85781.74
+2024-10-01,R04,East,Kolkata,Utilities,44422.85
+2024-10-01,R04,East,Kolkata,Travel,52884.17
+2024-10-01,R04,East,Kolkata,Software,60307.41
+2024-10-01,R04,East,Kolkata,Logistics,127977.41
+2024-10-01,R04,East,Kolkata,Professional Fees,56338.06
+2024-10-01,R05,Central,Indore,Salary,447210.04
+2024-10-01,R05,Central,Indore,Marketing,152971.56
+2024-10-01,R05,Central,Indore,Rent,93462.89
+2024-10-01,R05,Central,Indore,Utilities,41001.89
+2024-10-01,R05,Central,Indore,Travel,63415.88
+2024-10-01,R05,Central,Indore,Software,73624.13
+2024-10-01,R05,Central,Indore,Logistics,95946.28
+2024-10-01,R05,Central,Indore,Professional Fees,55098.37
+2024-11-01,R01,North,Delhi,Salary,416332.58
+2024-11-01,R01,North,Delhi,Marketing,154705.36
+2024-11-01,R01,North,Delhi,Rent,91345.87
+2024-11-01,R01,North,Delhi,Utilities,41871.62
+2024-11-01,R01,North,Delhi,Travel,56723.81
+2024-11-01,R01,North,Delhi,Software,72155.75
+2024-11-01,R01,North,Delhi,Logistics,121155.94
+2024-11-01,R01,North,Delhi,Professional Fees,42869.12
+2024-11-01,R02,West,Mumbai,Salary,413731.57
+2024-11-01,R02,West,Mumbai,Marketing,138417.88
+2024-11-01,R02,West,Mumbai,Rent,95265.06
+2024-11-01,R02,West,Mumbai,Utilities,51304.36
+2024-11-01,R02,West,Mumbai,Travel,57236.57
+2024-11-01,R02,West,Mumbai,Software,71707.94
+2024-11-01,R02,West,Mumbai,Logistics,129261.09
+2024-11-01,R02,West,Mumbai,Professional Fees,54339.89
+2024-11-01,R03,South,Bengaluru,Salary,520582.56
+2024-11-01,R03,South,Bengaluru,Marketing,166913.44
+2024-11-01,R03,South,Bengaluru,Rent,105216.24
+2024-11-01,R03,South,Bengaluru,Utilities,49694.06
+2024-11-01,R03,South,Bengaluru,Travel,58218.91
+2024-11-01,R03,South,Bengaluru,Software,61734.69
+2024-11-01,R03,South,Bengaluru,Logistics,101403.41
+2024-11-01,R03,South,Bengaluru,Professional Fees,54824.29
+2024-11-01,R04,East,Kolkata,Salary,406609.9
+2024-11-01,R04,East,Kolkata,Marketing,145857.6
+2024-11-01,R04,East,Kolkata,Rent,79256.54
+2024-11-01,R04,East,Kolkata,Utilities,42433.88
+2024-11-01,R04,East,Kolkata,Travel,50084.37
+2024-11-01,R04,East,Kolkata,Software,64281.62
+2024-11-01,R04,East,Kolkata,Logistics,106751.4
+2024-11-01,R04,East,Kolkata,Professional Fees,48260.86
+2024-11-01,R05,Central,Indore,Salary,488700.31
+2024-11-01,R05,Central,Indore,Marketing,176668.4
+2024-11-01,R05,Central,Indore,Rent,105038.21
+2024-11-01,R05,Central,Indore,Utilities,44215.73
+2024-11-01,R05,Central,Indore,Travel,56726.73
+2024-11-01,R05,Central,Indore,Software,70881.2
+2024-11-01,R05,Central,Indore,Logistics,99922.97
+2024-11-01,R05,Central,Indore,Professional Fees,48974.95
+2024-12-01,R01,North,Delhi,Salary,482319.89
+2024-12-01,R01,North,Delhi,Marketing,185690.71
+2024-12-01,R01,North,Delhi,Rent,99344.76
+2024-12-01,R01,North,Delhi,Utilities,40637.57
+2024-12-01,R01,North,Delhi,Travel,55365.72
+2024-12-01,R01,North,Delhi,Software,64137.0
+2024-12-01,R01,North,Delhi,Logistics,103648.31
+2024-12-01,R01,North,Delhi,Professional Fees,57734.05
+2024-12-01,R02,West,Mumbai,Salary,505440.72
+2024-12-01,R02,West,Mumbai,Marketing,167167.12
+2024-12-01,R02,West,Mumbai,Rent,103972.43
+2024-12-01,R02,West,Mumbai,Utilities,39539.44
+2024-12-01,R02,West,Mumbai,Travel,62196.34
+2024-12-01,R02,West,Mumbai,Software,69255.18
+2024-12-01,R02,West,Mumbai,Logistics,114476.12
+2024-12-01,R02,West,Mumbai,Professional Fees,44398.94
+2024-12-01,R03,South,Bengaluru,Salary,418316.96
+2024-12-01,R03,South,Bengaluru,Marketing,159247.68
+2024-12-01,R03,South,Bengaluru,Rent,90764.27
+2024-12-01,R03,South,Bengaluru,Utilities,44164.89
+2024-12-01,R03,South,Bengaluru,Travel,51736.39
+2024-12-01,R03,South,Bengaluru,Software,68225.42
+2024-12-01,R03,South,Bengaluru,Logistics,107585.48
+2024-12-01,R03,South,Bengaluru,Professional Fees,54137.73
+2024-12-01,R04,East,Kolkata,Salary,501538.31
+2024-12-01,R04,East,Kolkata,Marketing,151708.69
+2024-12-01,R04,East,Kolkata,Rent,89644.84
+2024-12-01,R04,East,Kolkata,Utilities,39786.34
+2024-12-01,R04,East,Kolkata,Travel,60618.05
+2024-12-01,R04,East,Kolkata,Software,60383.36
+2024-12-01,R04,East,Kolkata,Logistics,100998.62
+2024-12-01,R04,East,Kolkata,Professional Fees,48523.76
+2024-12-01,R05,Central,Indore,Salary,457982.05
+2024-12-01,R05,Central,Indore,Marketing,183529.91
+2024-12-01,R05,Central,Indore,Rent,78672.78
+2024-12-01,R05,Central,Indore,Utilities,49900.87
+2024-12-01,R05,Central,Indore,Travel,46879.84
+2024-12-01,R05,Central,Indore,Software,81533.13
+2024-12-01,R05,Central,Indore,Logistics,104765.68
+2024-12-01,R05,Central,Indore,Professional Fees,47372.02
+2025-01-01,R01,North,Delhi,Salary,451073.14
+2025-01-01,R01,North,Delhi,Marketing,156858.01
+2025-01-01,R01,North,Delhi,Rent,89077.27
+2025-01-01,R01,North,Delhi,Utilities,42044.55
+2025-01-01,R01,North,Delhi,Travel,53617.88
+2025-01-01,R01,North,Delhi,Software,75169.58
+2025-01-01,R01,North,Delhi,Logistics,114810.36
+2025-01-01,R01,North,Delhi,Professional Fees,43609.64
+2025-01-01,R02,West,Mumbai,Salary,464431.36
+2025-01-01,R02,West,Mumbai,Marketing,165611.61
+2025-01-01,R02,West,Mumbai,Rent,82363.89
+2025-01-01,R02,West,Mumbai,Utilities,40224.42
+2025-01-01,R02,West,Mumbai,Travel,47075.66
+2025-01-01,R02,West,Mumbai,Software,60595.13
+2025-01-01,R02,West,Mumbai,Logistics,118832.02
+2025-01-01,R02,West,Mumbai,Professional Fees,52728.07
+2025-01-01,R03,South,Bengaluru,Salary,386472.61
+2025-01-01,R03,South,Bengaluru,Marketing,152082.93
+2025-01-01,R03,South,Bengaluru,Rent,84710.11
+2025-01-01,R03,South,Bengaluru,Utilities,44686.68
+2025-01-01,R03,South,Bengaluru,Travel,56313.07
+2025-01-01,R03,South,Bengaluru,Software,80213.85
+2025-01-01,R03,South,Bengaluru,Logistics,99940.7
+2025-01-01,R03,South,Bengaluru,Professional Fees,58288.3
+2025-01-01,R04,East,Kolkata,Salary,493965.07
+2025-01-01,R04,East,Kolkata,Marketing,148670.8
+2025-01-01,R04,East,Kolkata,Rent,93526.24
+2025-01-01,R04,East,Kolkata,Utilities,43735.63
+2025-01-01,R04,East,Kolkata,Travel,53266.84
+2025-01-01,R04,East,Kolkata,Software,74936.04
+2025-01-01,R04,East,Kolkata,Logistics,97986.76
+2025-01-01,R04,East,Kolkata,Professional Fees,48570.24
+2025-01-01,R05,Central,Indore,Salary,526536.12
+2025-01-01,R05,Central,Indore,Marketing,157959.37
+2025-01-01,R05,Central,Indore,Rent,78661.19
+2025-01-01,R05,Central,Indore,Utilities,39760.75
+2025-01-01,R05,Central,Indore,Travel,47867.68
+2025-01-01,R05,Central,Indore,Software,73719.31
+2025-01-01,R05,Central,Indore,Logistics,101536.71
+2025-01-01,R05,Central,Indore,Professional Fees,44750.07
+2025-02-01,R01,North,Delhi,Salary,509912.39
+2025-02-01,R01,North,Delhi,Marketing,138053.06
+2025-02-01,R01,North,Delhi,Rent,94141.52
+2025-02-01,R01,North,Delhi,Utilities,52387.83
+2025-02-01,R01,North,Delhi,Travel,49612.62
+2025-02-01,R01,North,Delhi,Software,71726.8
+2025-02-01,R01,North,Delhi,Logistics,109523.68
+2025-02-01,R01,North,Delhi,Professional Fees,53362.61
+2025-02-01,R02,West,Mumbai,Salary,488991.85
+2025-02-01,R02,West,Mumbai,Marketing,147172.76
+2025-02-01,R02,West,Mumbai,Rent,106024.04
+2025-02-01,R02,West,Mumbai,Utilities,52024.0
+2025-02-01,R02,West,Mumbai,Travel,50905.94
+2025-02-01,R02,West,Mumbai,Software,60162.94
+2025-02-01,R02,West,Mumbai,Logistics,121392.22
+2025-02-01,R02,West,Mumbai,Professional Fees,42951.75
+2025-02-01,R03,South,Bengaluru,Salary,459934.37
+2025-02-01,R03,South,Bengaluru,Marketing,137352.4
+2025-02-01,R03,South,Bengaluru,Rent,100615.38
+2025-02-01,R03,South,Bengaluru,Utilities,39425.27
+2025-02-01,R03,South,Bengaluru,Travel,61305.56
+2025-02-01,R03,South,Bengaluru,Software,68632.94
+2025-02-01,R03,South,Bengaluru,Logistics,116397.7
+2025-02-01,R03,South,Bengaluru,Professional Fees,53205.68
+2025-02-01,R04,East,Kolkata,Salary,512350.36
+2025-02-01,R04,East,Kolkata,Marketing,163278.93
+2025-02-01,R04,East,Kolkata,Rent,86901.91
+2025-02-01,R04,East,Kolkata,Utilities,43666.33
+2025-02-01,R04,East,Kolkata,Travel,47530.42
+2025-02-01,R04,East,Kolkata,Software,65337.07
+2025-02-01,R04,East,Kolkata,Logistics,95939.15
+2025-02-01,R04,East,Kolkata,Professional Fees,42867.97
+2025-02-01,R05,Central,Indore,Salary,476052.63
+2025-02-01,R05,Central,Indore,Marketing,137052.54
+2025-02-01,R05,Central,Indore,Rent,84766.36
+2025-02-01,R05,Central,Indore,Utilities,44286.65
+2025-02-01,R05,Central,Indore,Travel,57654.75
+2025-02-01,R05,Central,Indore,Software,75005.73
+2025-02-01,R05,Central,Indore,Logistics,127712.97
+2025-02-01,R05,Central,Indore,Professional Fees,54934.08
+2025-03-01,R01,North,Delhi,Salary,415295.48
+2025-03-01,R01,North,Delhi,Marketing,175860.94
+2025-03-01,R01,North,Delhi,Rent,103434.94
+2025-03-01,R01,North,Delhi,Utilities,40142.36
+2025-03-01,R01,North,Delhi,Travel,49153.92
+2025-03-01,R01,North,Delhi,Software,68855.95
+2025-03-01,R01,North,Delhi,Logistics,124217.78
+2025-03-01,R01,North,Delhi,Professional Fees,51833.43
+2025-03-01,R02,West,Mumbai,Salary,435906.18
+2025-03-01,R02,West,Mumbai,Marketing,174095.41
+2025-03-01,R02,West,Mumbai,Rent,100014.2
+2025-03-01,R02,West,Mumbai,Utilities,45423.03
+2025-03-01,R02,West,Mumbai,Travel,52723.26
+2025-03-01,R02,West,Mumbai,Software,75935.79
+2025-03-01,R02,West,Mumbai,Logistics,129099.83
+2025-03-01,R02,West,Mumbai,Professional Fees,55459.59
+2025-03-01,R03,South,Bengaluru,Salary,476158.74
+2025-03-01,R03,South,Bengaluru,Marketing,137256.94
+2025-03-01,R03,South,Bengaluru,Rent,102551.13
+2025-03-01,R03,South,Bengaluru,Utilities,40202.35
+2025-03-01,R03,South,Bengaluru,Travel,61623.61
+2025-03-01,R03,South,Bengaluru,Software,63487.86
+2025-03-01,R03,South,Bengaluru,Logistics,104715.33
+2025-03-01,R03,South,Bengaluru,Professional Fees,54409.6
+2025-03-01,R04,East,Kolkata,Salary,388094.73
+2025-03-01,R04,East,Kolkata,Marketing,161780.05
+2025-03-01,R04,East,Kolkata,Rent,95568.38
+2025-03-01,R04,East,Kolkata,Utilities,50828.8
+2025-03-01,R04,East,Kolkata,Travel,47929.17
+2025-03-01,R04,East,Kolkata,Software,80771.03
+2025-03-01,R04,East,Kolkata,Logistics,104566.38
+2025-03-01,R04,East,Kolkata,Professional Fees,42706.16
+2025-03-01,R05,Central,Indore,Salary,400631.23
+2025-03-01,R05,Central,Indore,Marketing,138434.49
+2025-03-01,R05,Central,Indore,Rent,81077.83
+2025-03-01,R05,Central,Indore,Utilities,45207.85
+2025-03-01,R05,Central,Indore,Travel,56988.93
+2025-03-01,R05,Central,Indore,Software,75064.95
+2025-03-01,R05,Central,Indore,Logistics,126091.22
+2025-03-01,R05,Central,Indore,Professional Fees,44471.15
+2025-04-01,R01,North,Delhi,Salary,450788.25
+2025-04-01,R01,North,Delhi,Marketing,144390.0
+2025-04-01,R01,North,Delhi,Rent,99263.62
+2025-04-01,R01,North,Delhi,Utilities,41810.43
+2025-04-01,R01,North,Delhi,Travel,62147.27
+2025-04-01,R01,North,Delhi,Software,77605.56
+2025-04-01,R01,North,Delhi,Logistics,105905.24
+2025-04-01,R01,North,Delhi,Professional Fees,44722.91
+2025-04-01,R02,West,Mumbai,Salary,497850.15
+2025-04-01,R02,West,Mumbai,Marketing,167111.07
+2025-04-01,R02,West,Mumbai,Rent,77393.61
+2025-04-01,R02,West,Mumbai,Utilities,48797.06
+2025-04-01,R02,West,Mumbai,Travel,64771.08
+2025-04-01,R02,West,Mumbai,Software,68529.32
+2025-04-01,R02,West,Mumbai,Logistics,118261.06
+2025-04-01,R02,West,Mumbai,Professional Fees,51374.69
+2025-04-01,R03,South,Bengaluru,Salary,428814.18
+2025-04-01,R03,South,Bengaluru,Marketing,152546.52
+2025-04-01,R03,South,Bengaluru,Rent,92488.24
+2025-04-01,R03,South,Bengaluru,Utilities,41027.52
+2025-04-01,R03,South,Bengaluru,Travel,49422.15
+2025-04-01,R03,South,Bengaluru,Software,64193.34
+2025-04-01,R03,South,Bengaluru,Logistics,118676.11
+2025-04-01,R03,South,Bengaluru,Professional Fees,47256.1
+2025-04-01,R04,East,Kolkata,Salary,400945.89
+2025-04-01,R04,East,Kolkata,Marketing,164074.25
+2025-04-01,R04,East,Kolkata,Rent,98833.13
+2025-04-01,R04,East,Kolkata,Utilities,51724.77
+2025-04-01,R04,East,Kolkata,Travel,56209.56
+2025-04-01,R04,East,Kolkata,Software,60668.32
+2025-04-01,R04,East,Kolkata,Logistics,95275.62
+2025-04-01,R04,East,Kolkata,Professional Fees,52430.73
+2025-04-01,R05,Central,Indore,Salary,387112.47
+2025-04-01,R05,Central,Indore,Marketing,154208.89
+2025-04-01,R05,Central,Indore,Rent,90269.31
+2025-04-01,R05,Central,Indore,Utilities,39604.87
+2025-04-01,R05,Central,Indore,Travel,52561.56
+2025-04-01,R05,Central,Indore,Software,81815.78
+2025-04-01,R05,Central,Indore,Logistics,113005.69
+2025-04-01,R05,Central,Indore,Professional Fees,45870.83
+2025-05-01,R01,North,Delhi,Salary,494015.0
+2025-05-01,R01,North,Delhi,Marketing,148477.62
+2025-05-01,R01,North,Delhi,Rent,87912.79
+2025-05-01,R01,North,Delhi,Utilities,52195.06
+2025-05-01,R01,North,Delhi,Travel,56972.14
+2025-05-01,R01,North,Delhi,Software,67000.59
+2025-05-01,R01,North,Delhi,Logistics,110476.71
+2025-05-01,R01,North,Delhi,Professional Fees,50542.31
+2025-05-01,R02,West,Mumbai,Salary,409744.04
+2025-05-01,R02,West,Mumbai,Marketing,186831.52
+2025-05-01,R02,West,Mumbai,Rent,97186.97
+2025-05-01,R02,West,Mumbai,Utilities,49045.31
+2025-05-01,R02,West,Mumbai,Travel,63317.28
+2025-05-01,R02,West,Mumbai,Software,74443.3
+2025-05-01,R02,West,Mumbai,Logistics,124899.54
+2025-05-01,R02,West,Mumbai,Professional Fees,49847.96
+2025-05-01,R03,South,Bengaluru,Salary,493792.75
+2025-05-01,R03,South,Bengaluru,Marketing,173173.15
+2025-05-01,R03,South,Bengaluru,Rent,81798.79
+2025-05-01,R03,South,Bengaluru,Utilities,51355.87
+2025-05-01,R03,South,Bengaluru,Travel,47410.76
+2025-05-01,R03,South,Bengaluru,Software,63504.31
+2025-05-01,R03,South,Bengaluru,Logistics,104155.16
+2025-05-01,R03,South,Bengaluru,Professional Fees,54447.19
+2025-05-01,R04,East,Kolkata,Salary,406723.0
+2025-05-01,R04,East,Kolkata,Marketing,145936.58
+2025-05-01,R04,East,Kolkata,Rent,91525.82
+2025-05-01,R04,East,Kolkata,Utilities,50514.67
+2025-05-01,R04,East,Kolkata,Travel,48026.69
+2025-05-01,R04,East,Kolkata,Software,69888.47
+2025-05-01,R04,East,Kolkata,Logistics,128541.02
+2025-05-01,R04,East,Kolkata,Professional Fees,45537.05
+2025-05-01,R05,Central,Indore,Salary,489730.89
+2025-05-01,R05,Central,Indore,Marketing,163865.24
+2025-05-01,R05,Central,Indore,Rent,89538.64
+2025-05-01,R05,Central,Indore,Utilities,39971.95
+2025-05-01,R05,Central,Indore,Travel,55589.11
+2025-05-01,R05,Central,Indore,Software,71781.09
+2025-05-01,R05,Central,Indore,Logistics,104750.72
+2025-05-01,R05,Central,Indore,Professional Fees,44852.99
+2025-06-01,R01,North,Delhi,Salary,516551.55
+2025-06-01,R01,North,Delhi,Marketing,145337.66
+2025-06-01,R01,North,Delhi,Rent,85318.18
+2025-06-01,R01,North,Delhi,Utilities,42719.23
+2025-06-01,R01,North,Delhi,Travel,62154.97
+2025-06-01,R01,North,Delhi,Software,72820.7
+2025-06-01,R01,North,Delhi,Logistics,112604.63
+2025-06-01,R01,North,Delhi,Professional Fees,49010.83
+2025-06-01,R02,West,Mumbai,Salary,507156.69
+2025-06-01,R02,West,Mumbai,Marketing,178602.26
+2025-06-01,R02,West,Mumbai,Rent,83456.56
+2025-06-01,R02,West,Mumbai,Utilities,40656.4
+2025-06-01,R02,West,Mumbai,Travel,46895.61
+2025-06-01,R02,West,Mumbai,Software,78180.46
+2025-06-01,R02,West,Mumbai,Logistics,98464.93
+2025-06-01,R02,West,Mumbai,Professional Fees,55230.73
+2025-06-01,R03,South,Bengaluru,Salary,421792.94
+2025-06-01,R03,South,Bengaluru,Marketing,152112.06
+2025-06-01,R03,South,Bengaluru,Rent,86257.65
+2025-06-01,R03,South,Bengaluru,Utilities,46354.62
+2025-06-01,R03,South,Bengaluru,Travel,51276.67
+2025-06-01,R03,South,Bengaluru,Software,61396.53
+2025-06-01,R03,South,Bengaluru,Logistics,127313.25
+2025-06-01,R03,South,Bengaluru,Professional Fees,45694.37
+2025-06-01,R04,East,Kolkata,Salary,436098.83
+2025-06-01,R04,East,Kolkata,Marketing,137732.39
+2025-06-01,R04,East,Kolkata,Rent,98771.91
+2025-06-01,R04,East,Kolkata,Utilities,43683.39
+2025-06-01,R04,East,Kolkata,Travel,55664.68
+2025-06-01,R04,East,Kolkata,Software,64509.93
+2025-06-01,R04,East,Kolkata,Logistics,105485.22
+2025-06-01,R04,East,Kolkata,Professional Fees,46772.5
+2025-06-01,R05,Central,Indore,Salary,514639.68
+2025-06-01,R05,Central,Indore,Marketing,167434.6
+2025-06-01,R05,Central,Indore,Rent,86443.93
+2025-06-01,R05,Central,Indore,Utilities,52521.63
+2025-06-01,R05,Central,Indore,Travel,61793.29
+2025-06-01,R05,Central,Indore,Software,73355.95
+2025-06-01,R05,Central,Indore,Logistics,103031.66
+2025-06-01,R05,Central,Indore,Professional Fees,51770.8
+2025-07-01,R01,North,Delhi,Salary,469651.51
+2025-07-01,R01,North,Delhi,Marketing,175437.19
+2025-07-01,R01,North,Delhi,Rent,87395.95
+2025-07-01,R01,North,Delhi,Utilities,45258.46
+2025-07-01,R01,North,Delhi,Travel,51981.62
+2025-07-01,R01,North,Delhi,Software,80880.1
+2025-07-01,R01,North,Delhi,Logistics,110538.19
+2025-07-01,R01,North,Delhi,Professional Fees,56233.6
+2025-07-01,R02,West,Mumbai,Salary,405672.46
+2025-07-01,R02,West,Mumbai,Marketing,186811.22
+2025-07-01,R02,West,Mumbai,Rent,91574.02
+2025-07-01,R02,West,Mumbai,Utilities,52709.87
+2025-07-01,R02,West,Mumbai,Travel,53573.88
+2025-07-01,R02,West,Mumbai,Software,68958.41
+2025-07-01,R02,West,Mumbai,Logistics,93977.83
+2025-07-01,R02,West,Mumbai,Professional Fees,55401.42
+2025-07-01,R03,South,Bengaluru,Salary,410147.18
+2025-07-01,R03,South,Bengaluru,Marketing,153091.66
+2025-07-01,R03,South,Bengaluru,Rent,86005.83
+2025-07-01,R03,South,Bengaluru,Utilities,40136.61
+2025-07-01,R03,South,Bengaluru,Travel,56923.19
+2025-07-01,R03,South,Bengaluru,Software,79524.2
+2025-07-01,R03,South,Bengaluru,Logistics,104394.5
+2025-07-01,R03,South,Bengaluru,Professional Fees,54834.22
+2025-07-01,R04,East,Kolkata,Salary,475568.13
+2025-07-01,R04,East,Kolkata,Marketing,144777.86
+2025-07-01,R04,East,Kolkata,Rent,77168.61
+2025-07-01,R04,East,Kolkata,Utilities,50806.99
+2025-07-01,R04,East,Kolkata,Travel,62393.54
+2025-07-01,R04,East,Kolkata,Software,71821.24
+2025-07-01,R04,East,Kolkata,Logistics,127498.88
+2025-07-01,R04,East,Kolkata,Professional Fees,54834.78
+2025-07-01,R05,Central,Indore,Salary,409387.09
+2025-07-01,R05,Central,Indore,Marketing,164679.74
+2025-07-01,R05,Central,Indore,Rent,83639.84
+2025-07-01,R05,Central,Indore,Utilities,40986.39
+2025-07-01,R05,Central,Indore,Travel,63330.86
+2025-07-01,R05,Central,Indore,Software,61162.6
+2025-07-01,R05,Central,Indore,Logistics,125476.4
+2025-07-01,R05,Central,Indore,Professional Fees,53757.67
+2025-08-01,R01,North,Delhi,Salary,415510.1
+2025-08-01,R01,North,Delhi,Marketing,143430.14
+2025-08-01,R01,North,Delhi,Rent,101798.2
+2025-08-01,R01,North,Delhi,Utilities,41682.55
+2025-08-01,R01,North,Delhi,Travel,57520.13
+2025-08-01,R01,North,Delhi,Software,68660.8
+2025-08-01,R01,North,Delhi,Logistics,112587.24
+2025-08-01,R01,North,Delhi,Professional Fees,56048.09
+2025-08-01,R02,West,Mumbai,Salary,515720.73
+2025-08-01,R02,West,Mumbai,Marketing,154079.85
+2025-08-01,R02,West,Mumbai,Rent,100666.69
+2025-08-01,R02,West,Mumbai,Utilities,39205.4
+2025-08-01,R02,West,Mumbai,Travel,60037.05
+2025-08-01,R02,West,Mumbai,Software,77317.06
+2025-08-01,R02,West,Mumbai,Logistics,97777.05
+2025-08-01,R02,West,Mumbai,Professional Fees,42533.04
+2025-08-01,R03,South,Bengaluru,Salary,484483.54
+2025-08-01,R03,South,Bengaluru,Marketing,140710.17
+2025-08-01,R03,South,Bengaluru,Rent,103138.55
+2025-08-01,R03,South,Bengaluru,Utilities,39260.74
+2025-08-01,R03,South,Bengaluru,Travel,62891.01
+2025-08-01,R03,South,Bengaluru,Software,63547.69
+2025-08-01,R03,South,Bengaluru,Logistics,95167.84
+2025-08-01,R03,South,Bengaluru,Professional Fees,57530.01
+2025-08-01,R04,East,Kolkata,Salary,416802.58
+2025-08-01,R04,East,Kolkata,Marketing,178096.94
+2025-08-01,R04,East,Kolkata,Rent,100100.41
+2025-08-01,R04,East,Kolkata,Utilities,46578.8
+2025-08-01,R04,East,Kolkata,Travel,64391.6
+2025-08-01,R04,East,Kolkata,Software,81349.54
+2025-08-01,R04,East,Kolkata,Logistics,116944.41
+2025-08-01,R04,East,Kolkata,Professional Fees,56356.56
+2025-08-01,R05,Central,Indore,Salary,407371.27
+2025-08-01,R05,Central,Indore,Marketing,177751.35
+2025-08-01,R05,Central,Indore,Rent,99599.45
+2025-08-01,R05,Central,Indore,Utilities,47969.94
+2025-08-01,R05,Central,Indore,Travel,61826.33
+2025-08-01,R05,Central,Indore,Software,69245.95
+2025-08-01,R05,Central,Indore,Logistics,117507.09
+2025-08-01,R05,Central,Indore,Professional Fees,55072.27
+2025-09-01,R01,North,Delhi,Salary,387804.75
+2025-09-01,R01,North,Delhi,Marketing,179923.01
+2025-09-01,R01,North,Delhi,Rent,77491.05
+2025-09-01,R01,North,Delhi,Utilities,42624.76
+2025-09-01,R01,North,Delhi,Travel,52213.83
+2025-09-01,R01,North,Delhi,Software,60265.13
+2025-09-01,R01,North,Delhi,Logistics,110827.74
+2025-09-01,R01,North,Delhi,Professional Fees,52459.79
+2025-09-01,R02,West,Mumbai,Salary,447887.61
+2025-09-01,R02,West,Mumbai,Marketing,178948.34
+2025-09-01,R02,West,Mumbai,Rent,87105.93
+2025-09-01,R02,West,Mumbai,Utilities,49375.76
+2025-09-01,R02,West,Mumbai,Travel,60617.99
+2025-09-01,R02,West,Mumbai,Software,80336.65
+2025-09-01,R02,West,Mumbai,Logistics,125804.8
+2025-09-01,R02,West,Mumbai,Professional Fees,58822.08
+2025-09-01,R03,South,Bengaluru,Salary,494585.05
+2025-09-01,R03,South,Bengaluru,Marketing,140790.88
+2025-09-01,R03,South,Bengaluru,Rent,89807.57
+2025-09-01,R03,South,Bengaluru,Utilities,41583.22
+2025-09-01,R03,South,Bengaluru,Travel,48886.82
+2025-09-01,R03,South,Bengaluru,Software,79479.76
+2025-09-01,R03,South,Bengaluru,Logistics,101634.22
+2025-09-01,R03,South,Bengaluru,Professional Fees,46213.69
+2025-09-01,R04,East,Kolkata,Salary,482325.34
+2025-09-01,R04,East,Kolkata,Marketing,139351.15
+2025-09-01,R04,East,Kolkata,Rent,77047.31
+2025-09-01,R04,East,Kolkata,Utilities,43399.75
+2025-09-01,R04,East,Kolkata,Travel,50960.84
+2025-09-01,R04,East,Kolkata,Software,74286.98
+2025-09-01,R04,East,Kolkata,Logistics,98374.0
+2025-09-01,R04,East,Kolkata,Professional Fees,54609.97
+2025-09-01,R05,Central,Indore,Salary,519481.3
+2025-09-01,R05,Central,Indore,Marketing,137477.53
+2025-09-01,R05,Central,Indore,Rent,96271.66
+2025-09-01,R05,Central,Indore,Utilities,42220.96
+2025-09-01,R05,Central,Indore,Travel,62271.89
+2025-09-01,R05,Central,Indore,Software,67853.18
+2025-09-01,R05,Central,Indore,Logistics,114063.23
+2025-09-01,R05,Central,Indore,Professional Fees,44947.29
+2025-10-01,R01,North,Delhi,Salary,511593.72
+2025-10-01,R01,North,Delhi,Marketing,151759.53
+2025-10-01,R01,North,Delhi,Rent,85898.12
+2025-10-01,R01,North,Delhi,Utilities,41252.23
+2025-10-01,R01,North,Delhi,Travel,49863.33
+2025-10-01,R01,North,Delhi,Software,80660.03
+2025-10-01,R01,North,Delhi,Logistics,107191.29
+2025-10-01,R01,North,Delhi,Professional Fees,46160.9
+2025-10-01,R02,West,Mumbai,Salary,400659.95
+2025-10-01,R02,West,Mumbai,Marketing,183254.65
+2025-10-01,R02,West,Mumbai,Rent,81625.93
+2025-10-01,R02,West,Mumbai,Utilities,48452.72
+2025-10-01,R02,West,Mumbai,Travel,57796.84
+2025-10-01,R02,West,Mumbai,Software,69673.16
+2025-10-01,R02,West,Mumbai,Logistics,124168.14
+2025-10-01,R02,West,Mumbai,Professional Fees,56765.86
+2025-10-01,R03,South,Bengaluru,Salary,442289.87
+2025-10-01,R03,South,Bengaluru,Marketing,162750.67
+2025-10-01,R03,South,Bengaluru,Rent,105706.38
+2025-10-01,R03,South,Bengaluru,Utilities,52787.93
+2025-10-01,R03,South,Bengaluru,Travel,53059.69
+2025-10-01,R03,South,Bengaluru,Software,65134.9
+2025-10-01,R03,South,Bengaluru,Logistics,110744.79
+2025-10-01,R03,South,Bengaluru,Professional Fees,58295.06
+2025-10-01,R04,East,Kolkata,Salary,457003.69
+2025-10-01,R04,East,Kolkata,Marketing,143505.85
+2025-10-01,R04,East,Kolkata,Rent,101149.18
+2025-10-01,R04,East,Kolkata,Utilities,45413.14
+2025-10-01,R04,East,Kolkata,Travel,59341.94
+2025-10-01,R04,East,Kolkata,Software,75349.94
+2025-10-01,R04,East,Kolkata,Logistics,112138.15
+2025-10-01,R04,East,Kolkata,Professional Fees,57580.14
+2025-10-01,R05,Central,Indore,Salary,504320.22
+2025-10-01,R05,Central,Indore,Marketing,182322.09
+2025-10-01,R05,Central,Indore,Rent,103737.79
+2025-10-01,R05,Central,Indore,Utilities,49642.84
+2025-10-01,R05,Central,Indore,Travel,53353.49
+2025-10-01,R05,Central,Indore,Software,60011.59
+2025-10-01,R05,Central,Indore,Logistics,110682.89
+2025-10-01,R05,Central,Indore,Professional Fees,46550.05
+2025-11-01,R01,North,Delhi,Salary,477601.74
+2025-11-01,R01,North,Delhi,Marketing,178829.64
+2025-11-01,R01,North,Delhi,Rent,86240.87
+2025-11-01,R01,North,Delhi,Utilities,42867.88
+2025-11-01,R01,North,Delhi,Travel,51699.49
+2025-11-01,R01,North,Delhi,Software,70489.31
+2025-11-01,R01,North,Delhi,Logistics,114625.01
+2025-11-01,R01,North,Delhi,Professional Fees,49157.86
+2025-11-01,R02,West,Mumbai,Salary,493308.49
+2025-11-01,R02,West,Mumbai,Marketing,173684.01
+2025-11-01,R02,West,Mumbai,Rent,82868.0
+2025-11-01,R02,West,Mumbai,Utilities,51256.14
+2025-11-01,R02,West,Mumbai,Travel,48482.01
+2025-11-01,R02,West,Mumbai,Software,65884.49
+2025-11-01,R02,West,Mumbai,Logistics,94514.0
+2025-11-01,R02,West,Mumbai,Professional Fees,58204.33
+2025-11-01,R03,South,Bengaluru,Salary,420071.48
+2025-11-01,R03,South,Bengaluru,Marketing,173311.71
+2025-11-01,R03,South,Bengaluru,Rent,77358.36
+2025-11-01,R03,South,Bengaluru,Utilities,44165.04
+2025-11-01,R03,South,Bengaluru,Travel,59935.48
+2025-11-01,R03,South,Bengaluru,Software,64343.56
+2025-11-01,R03,South,Bengaluru,Logistics,110842.34
+2025-11-01,R03,South,Bengaluru,Professional Fees,46041.0
+2025-11-01,R04,East,Kolkata,Salary,400098.95
+2025-11-01,R04,East,Kolkata,Marketing,140515.69
+2025-11-01,R04,East,Kolkata,Rent,95085.81
+2025-11-01,R04,East,Kolkata,Utilities,48275.75
+2025-11-01,R04,East,Kolkata,Travel,60018.51
+2025-11-01,R04,East,Kolkata,Software,61755.54
+2025-11-01,R04,East,Kolkata,Logistics,96209.42
+2025-11-01,R04,East,Kolkata,Professional Fees,49292.39
+2025-11-01,R05,Central,Indore,Salary,500136.95
+2025-11-01,R05,Central,Indore,Marketing,176102.92
+2025-11-01,R05,Central,Indore,Rent,89330.0
+2025-11-01,R05,Central,Indore,Utilities,50801.45
+2025-11-01,R05,Central,Indore,Travel,57952.2
+2025-11-01,R05,Central,Indore,Software,65853.07
+2025-11-01,R05,Central,Indore,Logistics,103193.93
+2025-11-01,R05,Central,Indore,Professional Fees,46602.52
+2025-12-01,R01,North,Delhi,Salary,515608.33
+2025-12-01,R01,North,Delhi,Marketing,155311.37
+2025-12-01,R01,North,Delhi,Rent,101381.55
+2025-12-01,R01,North,Delhi,Utilities,47764.18
+2025-12-01,R01,North,Delhi,Travel,55362.02
+2025-12-01,R01,North,Delhi,Software,82124.61
+2025-12-01,R01,North,Delhi,Logistics,114563.88
+2025-12-01,R01,North,Delhi,Professional Fees,46017.3
+2025-12-01,R02,West,Mumbai,Salary,487942.36
+2025-12-01,R02,West,Mumbai,Marketing,164988.03
+2025-12-01,R02,West,Mumbai,Rent,96555.66
+2025-12-01,R02,West,Mumbai,Utilities,39024.73
+2025-12-01,R02,West,Mumbai,Travel,61327.41
+2025-12-01,R02,West,Mumbai,Software,77992.68
+2025-12-01,R02,West,Mumbai,Logistics,109940.63
+2025-12-01,R02,West,Mumbai,Professional Fees,51604.42
+2025-12-01,R03,South,Bengaluru,Salary,422890.98
+2025-12-01,R03,South,Bengaluru,Marketing,179242.23
+2025-12-01,R03,South,Bengaluru,Rent,99656.06
+2025-12-01,R03,South,Bengaluru,Utilities,46378.94
+2025-12-01,R03,South,Bengaluru,Travel,47169.17
+2025-12-01,R03,South,Bengaluru,Software,64318.33
+2025-12-01,R03,South,Bengaluru,Logistics,100532.06
+2025-12-01,R03,South,Bengaluru,Professional Fees,48769.14
+2025-12-01,R04,East,Kolkata,Salary,391079.87
+2025-12-01,R04,East,Kolkata,Marketing,161934.88
+2025-12-01,R04,East,Kolkata,Rent,86860.74
+2025-12-01,R04,East,Kolkata,Utilities,46894.67
+2025-12-01,R04,East,Kolkata,Travel,60092.48
+2025-12-01,R04,East,Kolkata,Software,71987.64
+2025-12-01,R04,East,Kolkata,Logistics,110400.02
+2025-12-01,R04,East,Kolkata,Professional Fees,43508.2
+2025-12-01,R05,Central,Indore,Salary,493346.83
+2025-12-01,R05,Central,Indore,Marketing,163570.42
+2025-12-01,R05,Central,Indore,Rent,81272.15
+2025-12-01,R05,Central,Indore,Utilities,38431.54
+2025-12-01,R05,Central,Indore,Travel,47596.69
+2025-12-01,R05,Central,Indore,Software,69936.38
+2025-12-01,R05,Central,Indore,Logistics,120564.44
+2025-12-01,R05,Central,Indore,Professional Fees,44030.83
